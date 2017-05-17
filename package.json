@@ -8,7 +8,7 @@
     "scroll-to"
   ],
   "dependencies": {
-    "component-raf": "1.2.0",
+    "component-raf": "https://github.com/aarontyler/raf/tarball/master",
     "component-tween": "1.2.0"
   },
   "browser": {
